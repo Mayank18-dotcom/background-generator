@@ -1,2 +1,2 @@
 # background-generator
-Can be used to change the background for your websites.
+Can be used to change the background color for your websites.
